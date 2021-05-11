@@ -14,3 +14,4 @@ UP	  SUB R1,R1,#1
 STORE MOV R4, R2
 HERE  B  HERE
 	  END
+	  
