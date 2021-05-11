@@ -5,3 +5,4 @@
 	MUL R3,R1,R2
 	NOP
 	END
+	
